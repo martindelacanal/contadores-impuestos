@@ -1,0 +1,24 @@
+# environment
+.env
+env/
+NOTAS.txt
+/padrones
+
+# local settings
+/.vscode
+/procesamiento-retenciones/build
+/procesamiento-retenciones/dist
+
+# base de datos
+/procesamiento-retenciones/database/*
+!/procesamiento-retenciones/database/.gitkeep
+
+# cache
+**/__pycache__/
+# /__pycache__
+# /analisis/__pycache__
+# /environment/__pycache__
+# /forms/__pycache__
+# /informacion/__pycache__
+# model/__pycache__/*
+# /util/__pycache__
