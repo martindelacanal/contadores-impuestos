@@ -1,6 +1,0 @@
-insert into agreements_taxes_pre_process values (NULL, 7529, 858, 10, 2.5, 14749);
-insert into agreements_taxes_pre_process values (NULL, 7683, 1169, 10, 2.5, 14749);
-insert into agreements_taxes_pre_process values (NULL, 340342, 12518, 10, 2.5, 14749);
-insert into agreements_taxes_pre_process values (NULL, 420467, 14415, 10, 2.5, 14749);
-insert into agreements_taxes_pre_process values (NULL, 420917, 14435, 10, 2.5, 14749);
-insert into agreements_taxes_pre_process values (NULL, 421367, 14455, 10, 2.5, 14749);
