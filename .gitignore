@@ -8,6 +8,7 @@ NOTAS.txt
 /.vscode
 /procesamiento-retenciones/build
 /procesamiento-retenciones/dist
+/procesamiento-retenciones/ARCHIVOS_EXPORTADOS/*
 
 # base de datos
 /procesamiento-retenciones/database/*
